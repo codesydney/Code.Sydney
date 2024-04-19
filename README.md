@@ -1,4 +1,4 @@
-# Code.Sydney Projects Library
+# Code.Sydney|IMS Apps for Good Library
 
 Link to the Projects Board -> https://github.com/orgs/codesydney/projects/9/views/1
 <br/>
