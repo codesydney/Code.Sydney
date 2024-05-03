@@ -1,4 +1,4 @@
-# Code.Sydney | IMS Apps for Good Library
+# Code.Sydney Community Revenue
 
 Link to the Projects Board -> https://github.com/orgs/codesydney/projects/9/views/1
 <br/>
